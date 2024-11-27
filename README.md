@@ -21,6 +21,17 @@ The extracted features are then used by a machine learning model to classify whe
 - MediaPipe
 - NumPy
 - A trained ML model for attention detection (you can replace it with your own model)
+-torch>=2.0.0
+-torchvision>=0.15.0
+-tensorboard>=2.4.1
+-ipython
+-pycocotools
+-thop
+-pkg_resources
+-pyaml
+-tqdm
+-requests
+
 
 ## Installation
 
